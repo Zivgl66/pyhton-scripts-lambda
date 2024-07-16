@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "devops-infinity",
+  "private_key_id": "676dbe2380777375a43b69c8fba35b4cc00618af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCna/2w4yLLcZGl\nC4KZ5kPa/VDPEffYkDDu1ld50NpSmZXlQAbQ3g0swN8ROKymNLhj7N9zD3gKRHCz\navP4KvceFmBa3w7yet5wsTwEHxSSl9bDFZbsrK6+tpScHTCn/5FEEmVrqKDX7q7V\nuWD+vVzuAsDx2EBIrBsOY7iWoE0rTC0Js7vaZSgDcn/HgM9yCynGIWr9I2pSDX7K\nK4odUsvjLnOclOybF15Pq9oAyr9hHd2Sc3ghqrOiajW/Fkr6ebZQj+9X9BSkSJ28\n4TE+RFX4XpMmSImnsXm6qQI/7eV+YubEtJ05RelEOTLDJridTqMWWUKknOkfk7X3\ndYIQGJm1AgMBAAECggEANq907Xa7ckVVw9mnHprSdjDA2OovEPtEKHc1mnIIJevJ\nxNhtgYLOPdx/4DGpXx6gTe9cq0oVtRDW2RvptZlfH2JCtdvfF3/fsWKKznPSdfGH\nsjAWnJbo+x1LHFUChBVbvybdHtW1N+LcE65aCssSlCGtITG4CaTBr6kN7ZFNs4LF\n24DOj8dw8glE+m6Mown1PRJlWmrzDxuzHxQ3RAkKLWkAR2MMZmjclpXX4DRwYapT\nd99QSkQHkfLs0l6Q1pMtB9mpBbTWk0qFXOSIZX4EqX9rolkpwmWYiU9vV3OunAFg\nsoB/aocIN2SOiEsetF7cI0RK7yatUHrwttMGE5hF/wKBgQDkYf42AkDwWgiP+4iV\nt4QLat56jvKRIecBtNhdXj8GTpzSR0Q4xd2hp17+gQXU/MAO9KHdjudxoy8aRznc\nk2tTMBCUQKHyyq/HvBi0C85vIxIb1cY64DL7daNW3Ouvjt27PMpODnUHH2xHfGP6\nVcICUXlVPjPW7cxuXfu18qKD+wKBgQC7qtch/eJNhF/QMVbyIQ6ZPZ0Rp5u20sDp\nh69ETXaWGpExAoTvliOF7YH3vVqtStfuPuEF4Vv86oq6G0m0OTF91kcaL3AS+8G3\nRP4S5LXSFARACvbGZfbfiH01rQKzRP9H4xmmXaqKOmm+fF77QKLiMfQU8W6rFQs/\nCimVaEQ6DwKBgF/t6WG2QKC0sLQJ6603kHdbRGgmcy0TGH1XASr203JKwwRweu99\n7UJhkz1D5Lc6E1I032i5Be5tpPNcx6knIwWmQtCC9YOOL5euIpI+A1AbYxfeC43f\nborBNwLdeQIc+HYVasSuveloAYtlbHlSXFOs9VIg9pVo/V2+jGQ4rprRAoGAeY3Z\nlLHOb+kq6j3bFC/nNcibwQCwMkXmIBz7oCEQi38fxf/cvRahYbEJ+r5SSmZs4Gsn\n81gZ7gK44nykS7Cz5s7w9Pv++rzIp31vmCs9vZmrexPe7XjD49uTRj4OvrEVLKnj\nRkfrG2dkcLY8Cz+9gQdcEmijBvs1cpqRfq2va28Cf20IKbj7xPPIVLuVVJ0lg/zq\nB1nTmn1hcSHrvmdvQahwg0GG09hmsprnlBtFuR6JjSnvnkWgo+0A0xlsFnJRYHpf\nhe1z4TpVZyJj+POKHus8Z/rjnGtG0Qwc2XNTuAA5fcEfK1pyLIgO5TK1nBkY1yNg\nV49tA59XFKUEfwU+8nE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "infinity-python@devops-infinity.iam.gserviceaccount.com",
+  "client_id": "112878546933930938469",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/infinity-python%40devops-infinity.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
