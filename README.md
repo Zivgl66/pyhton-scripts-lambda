@@ -1,4 +1,3 @@
-```
 # Python Scripts for AWS Lambda
 
 This repository contains a collection of Python scripts designed to run as AWS Lambda functions. These scripts are intended to automate various tasks and integrate with AWS services.
